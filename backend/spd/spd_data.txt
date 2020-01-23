@@ -1,0 +1,137 @@
+{'feed': 
+    {
+        'language': 'de', 
+        'title_detail': 
+            {'type': 
+                'text/plain', 
+                    'language': 'de', 
+                    'base': 'https://www.spdfraktion.de/termine/feed', 
+                    'value': 'Pressemitteilungen'
+            }, 
+        
+        'links': 
+            [
+                {
+                    'rel': 'alternate', 
+                    'type': 'text/html', 
+                    'href': 'https://www.spdfraktion.de/termine/feed'
+                }, 
+                {
+                    -'href': 'https://www.spdfraktion.de/presse/pressemitteilungen/feed', 'rel': 'self', 'type': 'application/rss+xml'
+                }
+            ], 
+        'link': 'https://www.spdfraktion.de/termine/feed', 
+        'subtitle': '', 'subtitle_detail': 
+            {
+                'type': 'text/html', 'language': 'de', 'base': 'https://www.spdfraktion.de/termine/feed', 'value': ''
+            }
+        }, 
+        
+        'entries': 
+            [
+                {
+                    'title': 'Verbrennung von Flaggen ausländischer Staaten unter Strafe stellen', 'title_detail': 
+                    
+                    {
+                    
+                        'type': 'text/plain', 'language': 'de', 'base': 'https://www.spdfraktion.de/termine/feed', 'value': 'Verbrennung von Flaggen ausländischer Staaten unter Strafe stellen'
+                    }, 
+                        'links': 
+                        
+                    [
+                        {
+                            'rel': 'alternate', 'type': 'text/html', 'href': 'https://www.spdfraktion.de/presse/pressemitteilungen/verbrennung-flaggen-auslaendischer-staaten-strafe-stellen'
+                        }
+                    ],
+                        
+                    'link': 'https://www.spdfraktion.de/presse/pressemitteilungen/verbrennung-flaggen-auslaendischer-staaten-strafe-stellen', 
+                    
+                    'summary': 'Der Deutsche Bundestag diskutiert am Mittwoch einen Vorschlag der Bundesregierung, durch welchen künftig die Verbrennung von Flaggen ausländischer Staaten und auch der EU-Flagge unter Strafe gestellt werden soll, erklären Eva Högl und Johannes Fechner.', 
+                    
+                    'summary_detail': 
+                        
+                        {
+                            'type': 'text/html', 
+                            'language': 'de', 
+                            'base': 'https://www.spdfraktion.de/termine/feed', 
+                            'value': 'Der Deutsche Bundestag diskutiert am Mittwoch einen Vorschlag der Bundesregierung, durch welchen künftig die Verbrennung von Flaggen ausländischer Staaten und auch der EU-Flagge unter Strafe gestellt werden soll, erklären Eva Högl und Johannes Fechner.'
+                        }, 
+                            
+                        'published': 'Wed, 15 Jan 2020 00:00:00 +0100', 
+                        'published_parsed': time.struct_time(tm_year=2020, tm_mon=1, tm_mday=14, tm_hour=23, tm_min=0, tm_sec=0, tm_wday=1, tm_yday=14, tm_isdst=0), 
+                        
+                        'authors': 
+                        [
+                            {
+                                'name': 'SPD-Bundestagsfraktion'
+                            }
+                        ],
+                        
+                        'author': 'SPD-Bundestagsfraktion', 
+                        'author_detail': {'name': 'SPD-Bundestagsfraktion'}, 
+                        'id': '4,669,820', 
+                        'guidislink': False
+                }, 
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                {'title': 'Nationale Bioökonomiestrategie : Viele wichtige Punkte – aber noch Luft nach oben', 'title_detail': {'type': 'text/plain', 'language': 'de', 'base': 'https://www.spdfraktion.de/termine/feed', 'value': 'Nationale Bioökonomiestrategie : Viele wichtige Punkte – aber noch Luft nach oben'}, 'links': [{'rel': 'alternate', 'type': 'text/html', 'href': 'https://www.spdfraktion.de/presse/pressemitteilungen/nationale-biooekonomiestrategie-viele-wichtige-punkte-noch-luft-oben'}], 'link': 'https://www.spdfraktion.de/presse/pressemitteilungen/nationale-biooekonomiestrategie-viele-wichtige-punkte-noch-luft-oben', 'summary': 'Das Bundeskabinett hat heute mit langer Verzögerung die ressortübergreifende Nationale Bioökonomiestrategie beschlossen. Sie enthält viele wichtige Ansatzpunkte, bleibt aber insgesamt zu ungenau. Hier müssen die CDU-geführten Ministerien für Ernährung und Landwirtschaft (BMEL) sowie Bildung und Forschung (BMBF) schnell nachlegen und die Strategie mit Leben füllen. Insbesondere bei der gesellschaftlichen Beteiligung besteht Handlungsbedarf. Die Fehler aus dem bisherigen Dialogprozess dürfen sich nicht wiederholen, erklärt René Röspel.', 'summary_detail': {'type': 'text/html', 'language': 'de', 'base': 'https://www.spdfraktion.de/termine/feed', 'value': 'Das Bundeskabinett hat heute mit langer Verzögerung die ressortübergreifende Nationale Bioökonomiestrategie beschlossen. Sie enthält viele wichtige Ansatzpunkte, bleibt aber insgesamt zu ungenau. Hier müssen die CDU-geführten Ministerien für Ernährung und Landwirtschaft (BMEL) sowie Bildung und Forschung (BMBF) schnell nachlegen und die Strategie mit Leben füllen. Insbesondere bei der gesellschaftlichen Beteiligung besteht Handlungsbedarf. Die Fehler aus dem bisherigen Dialogprozess dürfen sich nicht wiederholen, erklärt René Röspel.'}, 'published': 'Wed, 15 Jan 2020 00:00:00 +0100', 'published_parsed': time.struct_time(tm_year=2020, tm_mon=1, tm_mday=14, tm_hour=23, tm_min=0, tm_sec=0, tm_wday=1, tm_yday=14, tm_isdst=0), 'authors': [{'name': 'SPD-Bundestagsfraktion'}], 'author': 'SPD-Bundestagsfraktion', 'author_detail': {'name': 'SPD-Bundestagsfraktion'}, 'id': '4,669,994', 'guidislink': False}, {'title': 'Arbeitszeit muss konsequent aufgezeichnet werden', 'title_detail': {'type': 'text/plain', 'language': 'de', 'base': 'https://www.spdfraktion.de/termine/feed', 'value': 'Arbeitszeit muss konsequent aufgezeichnet werden'}, 'links': [{'rel': 'alternate', 'type': 'text/html', 'href': 'https://www.spdfraktion.de/presse/pressemitteilungen/arbeitszeit-muss-konsequent-aufgezeichnet'}], 'link': 'https://www.spdfraktion.de/presse/pressemitteilungen/arbeitszeit-muss-konsequent-aufgezeichnet', 'summary': 'Das Bundesministerium für Arbeit und Soziales hat ein Gutachten zur Umsetzung des EuGH-Urteils zur Arbeitszeiterfassung vom 14. Mai 2019 in Auftrag gegeben, um einen möglichen gesetzlichen Handlungsbedarf zu prüfen. Das Gutachten zeigt nun, dass das deutsche Arbeitsrecht den Vorgaben der Arbeitszeitrichtlinien nicht genügt und formuliert einen konkreten gesetzlichen Handlungsbedarf, erklärt Gabriele Hiller-Ohm.', 'summary_detail': {'type': 'text/html', 'language': 'de', 'base': 'https://www.spdfraktion.de/termine/feed', 'value': 'Das Bundesministerium für Arbeit und Soziales hat ein Gutachten zur Umsetzung des EuGH-Urteils zur Arbeitszeiterfassung vom 14. Mai 2019 in Auftrag gegeben, um einen möglichen gesetzlichen Handlungsbedarf zu prüfen. Das Gutachten zeigt nun, dass das deutsche Arbeitsrecht den Vorgaben der Arbeitszeitrichtlinien nicht genügt und formuliert einen konkreten gesetzlichen Handlungsbedarf, erklärt Gabriele Hiller-Ohm.'}, 'published': 'Tue, 14 Jan 2020 00:00:00 +0100', 'published_parsed': time.struct_time(tm_year=2020, tm_mon=1, tm_mday=13, tm_hour=23, tm_min=0, tm_sec=0, tm_wday=0, tm_yday=13, tm_isdst=0), 'authors': [{'name': 'SPD-Bundestagsfraktion'}], 'author': 'SPD-Bundestagsfraktion', 'author_detail': {'name': 'SPD-Bundestagsfraktion'}, 'id': '4,668,929', 'guidislink': False}, {'title': 'Gesundes Essen in Krankenhäusern – wie auch Schulen und KiTas', 'title_detail': {'type': 'text/plain', 'language': 'de', 'base': 'https://www.spdfraktion.de/termine/feed', 'value': 'Gesundes Essen in Krankenhäusern – wie auch Schulen und KiTas'}, 'links': [{'rel': 'alternate', 'type': 'text/html', 'href': 'https://www.spdfraktion.de/presse/pressemitteilungen/gesundes-essen-krankenhaeusern-schulen-kitas'}], 'link': 'https://www.spdfraktion.de/presse/pressemitteilungen/gesundes-essen-krankenhaeusern-schulen-kitas', 'summary': 'Veraltete Küchen, Investitionsstau und der Trend zu Großküchen, die mehrere Standorte versorgen – das trägt nicht dazu bei, dass Patienten das Essen in Krankenhäusern erhalten, das notwendig wäre, um die individuelle Genesung zu unterstützen. Das zeigt eine aktuelle Studie des Deutschen Krankenhausinstituts, erklärt Ursula Schulte.', 'summary_detail': {'type': 'text/html', 'language': 'de', 'base': 'https://www.spdfraktion.de/termine/feed', 'value': 'Veraltete Küchen, Investitionsstau und der Trend zu Großküchen, die mehrere Standorte versorgen – das trägt nicht dazu bei, dass Patienten das Essen in Krankenhäusern erhalten, das notwendig wäre, um die individuelle Genesung zu unterstützen. Das zeigt eine aktuelle Studie des Deutschen Krankenhausinstituts, erklärt Ursula Schulte.'}, 'published': 'Tue, 14 Jan 2020 00:00:00 +0100', 'published_parsed': time.struct_time(tm_year=2020, tm_mon=1, tm_mday=13, tm_hour=23, tm_min=0, tm_sec=0, tm_wday=0, tm_yday=13, tm_isdst=0), 'authors': [{'name': 'SPD-Bundestagsfraktion'}], 'author': 'SPD-Bundestagsfraktion', 'author_detail': {'name': 'SPD-Bundestagsfraktion'}, 'id': '4,669,039', 'guidislink': False}, {'title': 'Verkehrssicherheit 2030: Keine Toten im Straßenverkehr', 'title_detail': {'type': 'text/plain', 'language': 'de', 'base': 'https://www.spdfraktion.de/termine/feed', 'value': 'Verkehrssicherheit 2030: Keine Toten im Straßenverkehr'}, 'links': [{'rel': 'alternate', 'type': 'text/html', 'href': 'https://www.spdfraktion.de/presse/pressemitteilungen/verkehrssicherheit-2030-keine-toten-strassenverkehr'}], 'link': 'https://www.spdfraktion.de/presse/pressemitteilungen/verkehrssicherheit-2030-keine-toten-strassenverkehr', 'summary': 'Anlässlich einer Verkehrssicherheitskonferenz der SPD-Bundestagsfraktion kamen zum Jahresende zahlreiche Expertinnen und Experten aus ganz Deutschland zusammen. Sie diskutierten über ambitionierte Grundlagen für das Verkehrssicherheitsprogramm, das derzeit durch die Bundesregierung erarbeitet wird, erklären Lühmann und Korkmaz-Emre.', 'summary_detail': {'type': 'text/html', 'language': 'de', 'base': 'https://www.spdfraktion.de/termine/feed', 'value': 'Anlässlich einer Verkehrssicherheitskonferenz der SPD-Bundestagsfraktion kamen zum Jahresende zahlreiche Expertinnen und Experten aus ganz Deutschland zusammen. Sie diskutierten über ambitionierte Grundlagen für das Verkehrssicherheitsprogramm, das derzeit durch die Bundesregierung erarbeitet wird, erklären Lühmann und Korkmaz-Emre.'}, 'published': 'Fri, 20 Dec 2019 00:00:00 +0100', 'published_parsed': time.struct_time(tm_year=2019, tm_mon=12, tm_mday=19, tm_hour=23, tm_min=0, tm_sec=0, tm_wday=3, tm_yday=353, tm_isdst=0), 'authors': [{'name': 'SPD-Bundestagsfraktion'}], 'author': 'SPD-Bundestagsfraktion', 'author_detail': {'name': 'SPD-Bundestagsfraktion'}, 'id': '4,638,649', 'guidislink': False}, {'title': 'Sinti und Roma: Gedenken an den NS-Völkermord bewahren, Antiziganismus bekämpfen', 'title_detail': {'type': 'text/plain', 'language': 'de', 'base': 'https://www.spdfraktion.de/termine/feed', 'value': 'Sinti und Roma: Gedenken an den NS-Völkermord bewahren, Antiziganismus bekämpfen'}, 'links': [{'rel': 'alternate', 'type': 'text/html', 'href': 'https://www.spdfraktion.de/presse/pressemitteilungen/sinti-roma-gedenken-ns-voelkermord-bewahren-antiziganismus-bekaempfen'}], 'link': 'https://www.spdfraktion.de/presse/pressemitteilungen/sinti-roma-gedenken-ns-voelkermord-bewahren-antiziganismus-bekaempfen', 'summary': 'Zum heutigen Tag der Sinti und Roma unterstreicht die SPD-Bundestagsfraktion die besondere Verantwortung Deutschlands im Kampf gegen den Antiziganismus. Das Gedenken an die Opfer der grausamen nationalsozialistischen Verbrechen muss mit dem Einsatz für die Menschenrechte und dem Schutz vor Verfolgung und Diskriminierung der Sinti und Roma einhergehen, erklären Martin Rabanus und Helge Lindh.', 'summary_detail': {'type': 'text/html', 'language': 'de', 'base': 'https://www.spdfraktion.de/termine/feed', 'value': 'Zum heutigen Tag der Sinti und Roma unterstreicht die SPD-Bundestagsfraktion die besondere Verantwortung Deutschlands im Kampf gegen den Antiziganismus. Das Gedenken an die Opfer der grausamen nationalsozialistischen Verbrechen muss mit dem Einsatz für die Menschenrechte und dem Schutz vor Verfolgung und Diskriminierung der Sinti und Roma einhergehen, erklären Martin Rabanus und Helge Lindh.'}, 'published': 'Thu, 19 Dec 2019 00:00:00 +0100', 'published_parsed': time.struct_time(tm_year=2019, tm_mon=12, tm_mday=18, tm_hour=23, tm_min=0, tm_sec=0, tm_wday=2, tm_yday=352, tm_isdst=0), 'authors': [{'name': 'SPD-Bundestagsfraktion'}], 'author': 'SPD-Bundestagsfraktion', 'author_detail': {'name': 'SPD-Bundestagsfraktion'}, 'id': '4,637,248', 'guidislink': False}, {'title': 'Terroranschlag Breitscheidplatz: Unterschiedliche Einschätzungen der Sicherheitsbehörden', 'title_detail': {'type': 'text/plain', 'language': 'de', 'base': 'https://www.spdfraktion.de/termine/feed', 'value': 'Terroranschlag Breitscheidplatz: Unterschiedliche Einschätzungen der Sicherheitsbehörden'}, 'links': [{'rel': 'alternate', 'type': 'text/html', 'href': 'https://www.spdfraktion.de/presse/pressemitteilungen/terroranschlag-breitscheidplatz-unterschiedliche-einschaetzungen'}], 'link': 'https://www.spdfraktion.de/presse/pressemitteilungen/terroranschlag-breitscheidplatz-unterschiedliche-einschaetzungen', 'summary': 'Heute vor drei Jahren fand der islamistische Anschlag auf den Breitscheidplatz in Berlin statt. Seit bald zwei Jahren klärt der Untersuchungsausschuss die Hintergründe der Tat und die möglichen Versäumnisse der Sicherheitsbehörden auf, sagt Fritz Felgentreu.', 'summary_detail': {'type': 'text/html', 'language': 'de', 'base': 'https://www.spdfraktion.de/termine/feed', 'value': 'Heute vor drei Jahren fand der islamistische Anschlag auf den Breitscheidplatz in Berlin statt. Seit bald zwei Jahren klärt der Untersuchungsausschuss die Hintergründe der Tat und die möglichen Versäumnisse der Sicherheitsbehörden auf, sagt Fritz Felgentreu.'}, 'published': 'Thu, 19 Dec 2019 00:00:00 +0100', 'published_parsed': time.struct_time(tm_year=2019, tm_mon=12, tm_mday=18, tm_hour=23, tm_min=0, tm_sec=0, tm_wday=2, tm_yday=352, tm_isdst=0), 'authors': [{'name': 'SPD-Bundestagsfraktion'}], 'author': 'SPD-Bundestagsfraktion', 'author_detail': {'name': 'SPD-Bundestagsfraktion'}, 'id': '4,637,370', 'guidislink': False}, {'title': 'Finanztransaktionssteuer: Wichtig ist der erste Schritt', 'title_detail': {'type': 'text/plain', 'language': 'de', 'base': 'https://www.spdfraktion.de/termine/feed', 'value': 'Finanztransaktionssteuer: Wichtig ist der erste Schritt'}, 'links': [{'rel': 'alternate', 'type': 'text/html', 'href': 'https://www.spdfraktion.de/presse/pressemitteilungen/finanztransaktionssteuer-wichtig-erste-schritt'}], 'link': 'https://www.spdfraktion.de/presse/pressemitteilungen/finanztransaktionssteuer-wichtig-erste-schritt', 'summary': 'Die Besteuerung des Aktienhandels ist der erste Schritt zu einer stärkeren Besteuerung des Finanzsektors. Das Festhalten an der Idee einer umfassenden Besteuerung wäre das Ende der gemeinsamen Anstrengungen in der EU zur Einführung einer Finanztransaktionssteuer, sagt Lothar Binding.', 'summary_detail': {'type': 'text/html', 'language': 'de', 'base': 'https://www.spdfraktion.de/termine/feed', 'value': 'Die Besteuerung des Aktienhandels ist der erste Schritt zu einer stärkeren Besteuerung des Finanzsektors. Das Festhalten an der Idee einer umfassenden Besteuerung wäre das Ende der gemeinsamen Anstrengungen in der EU zur Einführung einer Finanztransaktionssteuer, sagt Lothar Binding.'}, 'published': 'Thu, 19 Dec 2019 00:00:00 +0100', 'published_parsed': time.struct_time(tm_year=2019, tm_mon=12, tm_mday=18, tm_hour=23, tm_min=0, tm_sec=0, tm_wday=2, tm_yday=352, tm_isdst=0), 'authors': [{'name': 'SPD-Bundestagsfraktion'}], 'author': 'SPD-Bundestagsfraktion', 'author_detail': {'name': 'SPD-Bundestagsfraktion'}, 'id': '4,637,488', 'guidislink': False}, {'title': 'EU-Trinkwasserrichtlinie: Mehr Schutz vor Hormongift im Trinkwasser', 'title_detail': {'type': 'text/plain', 'language': 'de', 'base': 'https://www.spdfraktion.de/termine/feed', 'value': 'EU-Trinkwasserrichtlinie: Mehr Schutz vor Hormongift im Trinkwasser'}, 'links': [{'rel': 'alternate', 'type': 'text/html', 'href': 'https://www.spdfraktion.de/presse/pressemitteilungen/eu-trinkwasserrichtlinie-mehr-schutz-hormongift-trinkwasser'}], 'link': 'https://www.spdfraktion.de/presse/pressemitteilungen/eu-trinkwasserrichtlinie-mehr-schutz-hormongift-trinkwasser', 'summary': 'Vergangene Nacht kam es zu einer Einigung in den Verhandlungen zur neuen EU-Trinkwasserrichtlinie. Verabschiedet wurde unter anderem ein verbindlicher Grenzwert für das Hormongift Bisphenol-A (BPA). Damit wird das Trinkwasser in der gesamten Europäischen Union sicherer, erklären Nezahat Baradari und Marja-Liisa Völlers.', 'summary_detail': {'type': 'text/html', 'language': 'de', 'base': 'https://www.spdfraktion.de/termine/feed', 'value': 'Vergangene Nacht kam es zu einer Einigung in den Verhandlungen zur neuen EU-Trinkwasserrichtlinie. Verabschiedet wurde unter anderem ein verbindlicher Grenzwert für das Hormongift Bisphenol-A (BPA). Damit wird das Trinkwasser in der gesamten Europäischen Union sicherer, erklären Nezahat Baradari und Marja-Liisa Völlers.'}, 'published': 'Thu, 19 Dec 2019 00:00:00 +0100', 'published_parsed': time.struct_time(tm_year=2019, tm_mon=12, tm_mday=18, tm_hour=23, tm_min=0, tm_sec=0, tm_wday=2, tm_yday=352, tm_isdst=0), 'authors': [{'name': 'SPD-Bundestagsfraktion'}], 'author': 'SPD-Bundestagsfraktion', 'author_detail': {'name': 'SPD-Bundestagsfraktion'}, 'id': '4,637,544', 'guidislink': False}, {'title': 'Armutsbericht - Armut gezielt bekämpfen', 'title_detail': {'type': 'text/plain', 'language': 'de', 'base': 'https://www.spdfraktion.de/termine/feed', 'value': 'Armutsbericht - Armut gezielt bekämpfen'}, 'links': [{'rel': 'alternate', 'type': 'text/html', 'href': 'https://www.spdfraktion.de/presse/pressemitteilungen/armutsbericht-armut-gezielt-bekaempfen'}], 'link': 'https://www.spdfraktion.de/presse/pressemitteilungen/armutsbericht-armut-gezielt-bekaempfen', 'summary': 'Der Paritätische Wohlfahrtsverband hat seinen Armutsbericht für Deutschland veröffentlicht. Darin heißt es, dass die Armutsquote im Schnitt bei 15,5 Prozent liegt.', 'summary_detail': {'type': 'text/html', 'language': 'de', 'base': 'https://www.spdfraktion.de/termine/feed', 'value': 'Der Paritätische Wohlfahrtsverband hat seinen Armutsbericht für Deutschland veröffentlicht. Darin heißt es, dass die Armutsquote im Schnitt bei 15,5 Prozent liegt.'}, 'published': 'Thu, 19 Dec 2019 00:00:00 +0100', 'published_parsed': time.struct_time(tm_year=2019, tm_mon=12, tm_mday=18, tm_hour=23, tm_min=0, tm_sec=0, tm_wday=2, tm_yday=352, tm_isdst=0), 'authors': [{'name': 'SPD-Bundestagsfraktion'}], 'author': 'SPD-Bundestagsfraktion', 'author_detail': {'name': 'SPD-Bundestagsfraktion'}, 'id': '4,637,617', 'guidislink': False}], 'bozo': 0, 'headers': {'Date': 'Wed, 15 Jan 2020 14:24:00 GMT', 'Server': 'Apache', 'Strict-Transport-Security': 'max-age=15768000', 'X-Content-Type-Options': 'nosniff', 'X-Drupal-Cache': 'HIT', 'Etag': '"1579096813-0"', 'Content-Language': 'de', 'X-Frame-Options': 'SAMEORIGIN', 'Cache-Control': 'public, max-age=0', 'Last-Modified': 'Wed, 15 Jan 2020 14:00:13 GMT', 'Expires': 'Sun, 19 Nov 1978 05:00:00 GMT', 'Vary': 'Cookie', 'Content-Type': 'application/rss+xml; charset=utf-8', 'Content-Length': '8513', 'Accept-Ranges': 'bytes', 'X-Varnish': '68878575 68877238', 'Age': '182', 'Via': '1.1 varnish', 'X-Cache': 'HIT', 'X-Cache-Hits': '61', 'Connection': 'close'}, 'etag': '"1579096813-0"', 'updated': 'Wed, 15 Jan 2020 14:00:13 GMT', 'updated_parsed': time.struct_time(tm_year=2020, tm_mon=1, tm_mday=15, tm_hour=14, tm_min=0, tm_sec=13, tm_wday=2, tm_yday=15, tm_isdst=0), 'href': 'https://www.spdfraktion.de/presse/pressemitteilungen/feed', 'status': 200, 'encoding': 'utf-8', 'version': 'rss20', 'namespaces': {'dc': 'http://purl.org/dc/elements/1.1/', '': 'http://www.w3.org/2005/Atom', 'og': 'http://ogp.me/ns#', 'article': 'http://ogp.me/ns/article#', 'book': 'http://ogp.me/ns/book#', 'profile': 'http://ogp.me/ns/profile#', 'video': 'http://ogp.me/ns/video#', 'product': 'http://ogp.me/ns/product#', 'content': 'http://purl.org/rss/1.0/modules/content/', 'foaf': 'http://xmlns.com/foaf/0.1/', 'rdfs': 'http://www.w3.org/2000/01/rdf-schema#', 'sioc': 'http://rdfs.org/sioc/ns#', 'sioct': 'http://rdfs.org/sioc/types#', 'skos': 'http://www.w3.org/2004/02/skos/core#', 'xsd': 'http://www.w3.org/2001/XMLSchema#'}}
+            'title': 'Pressemitteilungen', 
