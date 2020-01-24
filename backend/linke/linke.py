@@ -16,7 +16,7 @@ def getFeed(dateOfLastEntry):
 
         print(entry_published)
 
-        text = js.dumps(feed.entries[0].content[0].value, indent="\t")
+        text = js.dumps(feed.entries[0].content[0].value, indent="\t", ensure_ascii=False)
         if text.find("<p>" "<strong"):
             print("found some html")
             d = pq(text)
@@ -24,17 +24,21 @@ def getFeed(dateOfLastEntry):
             print(text)
             
             
-            
             content = {
 
                 "title": entry['title'],
                 "published": entry_published,
                 "summary": entry['summary'], # just for testing
-                "text": js.dumps(feed.entries[0].content[0].value, indent="\t")
+                "text": text
+
             }
+        
+        else:
+            print("linke sucks")
 
         data_File = open("linke_done.txt", "w")
-        data_File.write(js.dumps(feed.entries[0].content[0].value, indent="\t"))
+        #data_File.write(js.dumps(feed.entries[0].content[0].value, indent="2", ensure_ascii=False))
+        data_File.write(str(content))
         data_File.close()
 
     return entry_published, content
