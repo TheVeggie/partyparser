@@ -6,15 +6,12 @@ import json as js
 
 def getFeed(dateOfLastEntry):
 
-
     feed = fd.parse("https://www.linksfraktion.de/presse/pressemitteilungen/feed.rss")
-    
-    
     entry = feed.entries[0]
     entry_published = time.mktime(entry['published_parsed'])
     if entry_published > dateOfLastEntry:
-
         print(entry_published)
+
 
         text = js.dumps(feed.entries[0].content[0].value, indent="\t", ensure_ascii=False)
         if text.find("<p>" "<strong"):
@@ -35,12 +32,15 @@ def getFeed(dateOfLastEntry):
         
         else:
             print("linke sucks")
+            pass
 
-        data_File = open("linke_done.txt", "w")
+       # below is just for debugging
+       
+        data_File = open("linke_last", "w")
         #data_File.write(js.dumps(feed.entries[0].content[0].value, indent="2", ensure_ascii=False))
         data_File.write(str(content))
         data_File.close()
 
-    return entry_published, content
+    return content
 
 
