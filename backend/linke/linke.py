@@ -44,4 +44,3 @@ def getFeed(dateOfLastEntry):
     return entry_published, content
 
 
-getFeed(0)
