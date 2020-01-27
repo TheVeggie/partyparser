@@ -13,7 +13,7 @@ def getFeed(dateOfLastEntry):
         print(entry_published)
 
 
-        text = js.dumps(feed.entries[0].content[0].value, indent="\t", ensure_ascii=False)
+        text = js.dumps(entry.content[0].value, indent="\t", ensure_ascii=False)
         if text.find("<p>" "<strong"):
             print("found some html")
             d = pq(text)
@@ -28,7 +28,7 @@ def getFeed(dateOfLastEntry):
                 "summary": entry['summary'], # just for testing
                 "text": text
 
-            }
+            }q
         
         else:
             print("linke sucks")
