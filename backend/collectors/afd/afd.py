@@ -29,3 +29,4 @@ if entry_published > dateofLastEntry:
 data_File = open("output.txt", "w")
 data_File.write(str(text))
 data_File.close()
+
